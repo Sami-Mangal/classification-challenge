@@ -1,4 +1,4 @@
-# Spam Detection Model: Logistic Regression vs. Random Forest
+# Spam Detection : Logistic Regression vs. Random Forest
 
 # Overview
 
